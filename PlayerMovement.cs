@@ -8,9 +8,11 @@ public class PlayerMovement : MonoBehaviour
     Quaternion m_Rotation = Quaternion.identity;
     public float turnSpeed = 20f;
     Animator m_Animator;
+    Rigidbody m_Rigidbody;
     void Start()
     {
          m_Animator = GetComponent<Animator> ();
+         m_Rigidbody = GetComponent<Rigidbody> ();
     }
 
     void FixedUpdate()
