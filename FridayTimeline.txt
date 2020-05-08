@@ -1,2 +1,3 @@
-2:47pm - 3:50pm Downgrade from 2019.3.13f1 Unity version to 2018.4.22f1 Unity version.
+-->    2:47pm - 3:50pm Downgrade from 2019.3.13f1 Unity version to 2018.4.22f1 Unity version.
+-->    3:50 - 4:34pm Following tutorial on giving character avatar a third person view. Successfully inserted character into map with idle body motions but no user controlled movements.
 
