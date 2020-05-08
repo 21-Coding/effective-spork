@@ -21,6 +21,8 @@
  1. UnityHub
  2. C#
  3. Mixamo Animations 
+ 4. Synty Studios Heist Asset Pack
+ 4. Hosting: https://medium.com/@aboutin/host-unity-games-on-github-pages-for-free-2ed6b4d9c324
  
 
   
