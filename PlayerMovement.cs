@@ -17,6 +17,8 @@ public class PlayerMovement : MonoBehaviour
         
         m_Movement.Set(horizontal, 0f, vertical);
         m_Movement.Normalize ();
+
+         bool hasHorizontalInput = !Mathf.Approximately (horizontal, 0f);
     
     }
 
