@@ -22,6 +22,10 @@ Money Heist is a 3D project that uses Unity renderer.
 # User Capabilities (current goals)
 1. User can navigate map.
 
+# Installation 
+1. Visit https://store.unity.com/#plans-individual.
+2. Click "Download Unity Hub".
+
 
 # Tools Used
 
