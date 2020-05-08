@@ -34,5 +34,10 @@ public class PlayerMovement : MonoBehaviour
     
     }
 
+     void OnAnimatorMove ()
+    {
+
+    }
+
 
 }
