@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour 
 {
     Vector3 m_Movement;
+    public float turnSpeed;
     Animator m_Animator;
     void Start()
     {
@@ -24,7 +25,8 @@ public class PlayerMovement : MonoBehaviour
 
          bool isWalking = hasHorizontalInput || hasVerticalInput;
          m_Animator.SetBool("IsWalking", isWalking);
- 
+    
+        Vector3 desiredForward = Vector3.RotateTowards (transform.forward, m_Movement, turnSpeed * Time.deltaTime, 0f);
     
     }
 
