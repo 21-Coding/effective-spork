@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     Animator m_Animator;
     void Start()
     {
-
+         m_Animator = GetComponent<Animator> ();
     }
 
     void FixedUpdate()
