@@ -20,6 +20,8 @@ public class PlayerMovement : MonoBehaviour
 
          bool hasHorizontalInput = !Mathf.Approximately (horizontal, 0f);
          bool hasVerticalInput = !Mathf.Approximately (vertical, 0f);
+         
+         bool isWalking = hasHorizontalInput || hasVerticalInput;
     
     }
 
