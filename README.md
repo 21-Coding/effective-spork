@@ -18,7 +18,10 @@
 
 # Description
 Money Heist is a 3D project that uses Unity renderer. 
-  
+
+# User Capabilities (current goals)
+1. User can navigate map.
+
 
 # Tools Used
 
@@ -34,4 +37,3 @@ Money Heist is a 3D project that uses Unity renderer.
 
   
 
-# License
