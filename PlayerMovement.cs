@@ -5,6 +5,7 @@ using UnityEngine:
 public class PlayerMovement : MonoBehaviour 
 {
     Vector3 m_Movement;
+    Animator m_Animator;
     void Start()
     {
 
@@ -20,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
 
          bool hasHorizontalInput = !Mathf.Approximately (horizontal, 0f);
          bool hasVerticalInput = !Mathf.Approximately (vertical, 0f);
-         
+
          bool isWalking = hasHorizontalInput || hasVerticalInput;
     
     }
