@@ -9,4 +9,4 @@ Friday May 8th, 2020
 
 Saturday May 9th, 2020
 
---> 2:00pm -3:18pm Finding much success in downgrading Unity.  Assigned player movement! Player can now move around the map. 
+--> 2:00pm - 3:18pm Finding much success in downgrading Unity.  Assigned player movement! Player can now move around the map. 
