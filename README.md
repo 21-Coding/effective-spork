@@ -27,8 +27,8 @@ Money Heist is a 3D project that uses Unity renderer.
 I began using 3D components on unity with this tutorial: https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner.
 
 # Installation 
-1. Visit https://store.unity.com/#plans-individual.
-2. Click "Download Unity Hub".
+1. Visit https://store.unity.com/download-nuo
+2. Click "Start Here".
 
 
 # Tools Used
