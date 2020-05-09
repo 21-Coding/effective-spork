@@ -1,6 +1,12 @@
+Friday May 8th, 2020
+
 -->    2:47pm - 3:50pm Downgrade from 2019.3.13f1 Unity version to 2018.4.22f1 Unity version.
 -->    3:50 - 4:34pm Following tutorial on giving character avatar a third person view. Successfully inserted character into map with idle body motions but no user controlled movements.
 
 --> 4:43pm Add Money Heist proposal file, this file must be opened using a PDF Reader, it will not open in VSCode.
 
 --> 5:00pm Full game file loaded, not yet playable.
+
+Saturday May 9th, 2020
+
+--> 2:00pm -3:18pm Finding much success in downgrading Unity.  Assigned player movement! Player can now move around the map. 
