@@ -6,6 +6,7 @@
 
 ##	Screenshots
 
+
 ![
 ](https://lh3.googleusercontent.com/HhW0Q0A8Ql2Gs8SPcxueuz54l_Q5StQwrMOk8_ExDeYamto7zG888ooP3wgErmIO65MW61lKFUs=s2000 "map")
 
@@ -21,6 +22,8 @@ Money Heist is a 3D project that uses Unity renderer. Play as selected custom de
 
 # MVP
 1. User can navigate map.
+![heistdemo](http://www.giphy.com/gifs/UrbID903ZzwdEMlCge)
+
 2. User can collect items from map.
 
 # Getting Started
