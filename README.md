@@ -24,7 +24,7 @@
 Money Heist is a 3D project that uses Unity renderer. Play as selected custom designed character, choose your weapon inventory and rob a bank! Play as lone wolf or with a crew of your own! Start out at your own base and plan a heist!
 
 # MVP
-1. User can navigate map with custom built character.
+1. User can navigate map with custom built character. Focus will be on building out the selection menu for a character and weapon. 
 2. User can collect items from map that will assist them in heist.
 3. User can win heist by evading local law enforcement. 
 
