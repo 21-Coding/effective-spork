@@ -23,6 +23,7 @@ Money Heist is a 3D project that uses Unity renderer. Play as selected custom de
 # MVP
 1. User can navigate map with custom built character.
 2. User can collect items from map that will assist them in heist.
+3. User can win heist by evading local law enforcement. 
 
 # Getting Started
 I began using 3D components on unity with this tutorial: https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner.
