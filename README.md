@@ -18,11 +18,11 @@
 
 
 # Description
-Money Heist is a 3D project that uses Unity renderer. Play as selected custom designed character, choose your weapon inventory and rob a bank! Play as lone wolf or with a crew of your own!
+Money Heist is a 3D project that uses Unity renderer. Play as selected custom designed character, choose your weapon inventory and rob a bank! Play as lone wolf or with a crew of your own! Start out at your own base and plan a heist!
 
 # MVP
-1. User can navigate map.
-2. User can collect items from map.
+1. User can navigate map with custom built character.
+2. User can collect items from map that will assist them in heist.
 
 # Getting Started
 I began using 3D components on unity with this tutorial: https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner.
