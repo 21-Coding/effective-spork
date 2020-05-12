@@ -26,4 +26,9 @@ these additional features require?:
 
 Is there anything else you'd like your instructor to know?:
 
-    My most important MVP is to get a chatacter selection screen where the player starts their game with a specific amount of currency.  They take that currency and purchase as much ammunition and heist materials they can afford. To start it will only a single player currency available but a stretch goal is to have a matchmaking screen where every may put currency into the pot. Once you choose your ammunition and customize your characer you drive to the heist site to commence the heist.  During the heist you collect as much as possibe before the authorities arrive. The closer it is to the authorities arrival the less time you have to escape.
+    My most important MVP is to get a chatacter selection screen where the player starts 
+    their game with a specific amount of currency.  They take that currency and purchase as much ammunition and heist 
+    materials they can afford. To start it will only a single player currency available but a stretch goal is to have a 
+    matchmaking screen where every may put currency into the pot. Once you choose your ammunition and customize your characer
+     you drive to the heist site to commence the heist.  During the heist you collect as much as possibe before the authorities arrive.
+      The closer it is to the authorities arrival the less time you have to escape.
