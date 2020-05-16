@@ -28,4 +28,7 @@ Wednesday May 13th, 2020 - Thursday May 15th, 2020
 
 
 Friday May 16th, 2020 
---> Main goal today is to extend the map, create AI for the bank, add weapons, and extend character animation.  
+--> Main goal today is to extend the map, create AI for the bank, add weapons, and extend character animation.
+
+Saturday May 17th, 2020
+--> Open door to bank area of map, user can navigate bank interior.
