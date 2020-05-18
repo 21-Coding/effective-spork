@@ -41,4 +41,6 @@ Sunday May 18th, 2020
 
 Monday May 19th, 2020
 --> 8:00am - 11:52am Watching tutorials on extending map roads instead of copying road over and over.
---> 11:56 Learning more about best practices in Unity. https://www.youtube.com/watch?v=NU29QKag8a0
+--> 11:56am - 1:00pm Learning more about best practices in Unity. https://www.youtube.com/watch?v=NU29QKag8a0.
+--> 1:00pm - 1:20pm Testing out Unreal gaming engine, seems like a better fit for the future of money heist.
+
