@@ -35,3 +35,9 @@ Saturday May 17th, 2020
 --> 11:00pm - 11:22pm Open door to bank area of map, user can navigate bank interior.
 --> 11:22pm - 1:23pm Lay terrain and close off street edges.
 --> 1:23pm - 8:32pm Research and find road building software https://www.youtube.com/watch?v=yDUhBZg7tQM as well as a way to implement users weapons https://www.youtube.com/watch?v=S_USClc_r5c.
+
+Sunday May 18th, 2020
+--> Watch Tutorials
+
+Monday May 19th, 2020
+--> 8:00am - 11:52am Watching tutorials on extending map roads instead of copying road over and over.
