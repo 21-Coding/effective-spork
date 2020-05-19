@@ -48,3 +48,4 @@ Monday May 19th, 2020
 
 Tuesday May 20th, 2020
 --> 8:00am - 10:22am Add opening and closing transition to front door of bank instead of removing door.
+--> 10:22am - 10:58am Create longer road to lead up to spawn point.
