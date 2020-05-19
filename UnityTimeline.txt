@@ -50,3 +50,4 @@ Tuesday May 20th, 2020
 --> 8:00am - 10:22am Add opening and closing transition to front door of bank instead of removing door.
 --> 10:22am - 10:58am Create longer road to lead up to spawn point.
 --> 10:58am - 11:42am Surround bank with walls so that player cannot fall off of street.
+--> 11:46am Open back door to bank.
