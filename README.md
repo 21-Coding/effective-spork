@@ -8,23 +8,18 @@
 
 
 ![
-
 ](https://lh3.googleusercontent.com/HhW0Q0A8Ql2Gs8SPcxueuz54l_Q5StQwrMOk8_ExDeYamto7zG888ooP3wgErmIO65MW61lKFUs=s2000 "map")
 
 ![
-
 ](https://lh3.googleusercontent.com/JU1YxIjUXKyJFLlVaNqka_2vuoMcntDdAcF8VtTHEv1CtYlpphSOVrTSpTT068oEY6Qt9zTINgs=s1500 "Weapons")
 
 ![
-
 ](https://lh3.googleusercontent.com/fHmlNG-CSpXRY85GSIM1-eEYcJpNvSJ7_da_y2vGWssMDZ013eELT9cprnSEF4LYnhGR_vIavPE=s5000 "VehiclesPic")
 
 ![
-
 ](https://lh3.googleusercontent.com/VknPkHm4I52S2xznN6bOLxEShgscWxulPT9ucMJ4kwHA0fnsxA95l7nHc5BBMXjMfmDRCYn887E=s2000 "Masks")
 
 ![
-    
 ](https://lh3.googleusercontent.com/kQ-anBZ2P1SmWyFTrUZrT4kSmj2FEPqJxRC87LCuC7271GT-MQq-3TeYcUke2uqRD2-Pwb4oXSw=s2400 "oneMask")
 
 # Description
