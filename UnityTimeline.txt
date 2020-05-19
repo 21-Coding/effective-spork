@@ -43,4 +43,6 @@ Monday May 19th, 2020
 --> 8:00am - 11:52am Watching tutorials on extending map roads instead of copying road over and over.
 --> 11:56am - 1:00pm Learning more about best practices in Unity. https://www.youtube.com/watch?v=NU29QKag8a0.
 --> 1:00pm - 1:20pm Testing out Unreal gaming engine, seems like a better fit for the future of money heist.
+--> 1:20pm - 5:00pm Troubleshooted Unreal Engine installer. 
+--> 8:00pm - 10:13pm Found bug issue https://forums.unrealengine.com/community/general-discussion/1701644-cannot-install-unreal-engine.
 
