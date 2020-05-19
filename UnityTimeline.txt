@@ -46,3 +46,5 @@ Monday May 19th, 2020
 --> 1:20pm - 5:00pm Troubleshooted Unreal Engine installer. 
 --> 8:00pm - 10:13pm Found bug issue https://forums.unrealengine.com/community/general-discussion/1701644-cannot-install-unreal-engine.
 
+Tuesday May 20th, 2020
+--> 8:00am - 10:22am Add opening and closing transition to front door of bank instead of removing door.
