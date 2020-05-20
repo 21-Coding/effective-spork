@@ -7,8 +7,9 @@
 ##	Screenshots
 ### Character Selection
 ![headshotrecords](https://user-images.githubusercontent.com/46074403/82391434-1f0a6180-99f6-11ea-9418-53484bb6286b.jpg)
+### Vigorous Opposition 
 <img width="1466" alt="Federales" src="https://user-images.githubusercontent.com/46074403/82491917-3864e980-9a9a-11ea-8e17-c993e20de1d8.png">
-
+### Extensive Map
 <img width="1298" alt="Bank" src="https://user-images.githubusercontent.com/46074403/82491974-4e72aa00-9a9a-11ea-90e2-435d955a03e0.png">
 
 
