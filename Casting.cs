@@ -7,7 +7,7 @@ public class Casting : MonoBehaviour {
     void Update() {
         RaycastHit TheHit;
 
-        
+        if()
         
     }
 
