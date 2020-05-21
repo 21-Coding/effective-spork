@@ -58,5 +58,8 @@ Wednesday May 21st, 2020
 --> 10:00am - 11:00am Work on career services for Epicodus.
 --> 11:00am - 12:09pm Fixed falling through the floor error, adding mesh collider for player model to walk on.
 --> 12:09pm - 4:45pm Work on career services for Epicodus.
---> 5:20pm - 6:35pm Watching tutorials on rigging weapons to 3D characters in Unity.
+--> 5:20pm - 6:35pm Watching tutorials on rigging weapons to 3D characters in Unity using Raycasting.
 --> 6:35 - 7:38pm Fix falling error for all floors on entire level. 
+
+Thursday May 22nd, 2020
+--> 6:00am - 6:53am Code Raycasting script for weapons.
