@@ -7,7 +7,10 @@ public class Casting : MonoBehaviour {
     void Update() {
         RaycastHit TheHit;
 
-        if()
+        if(Physics.Raycast (transform.position, transform.TransformDirection(Vector3.forward), out TheHit)) {
+
+            
+        }
         
     }
 
