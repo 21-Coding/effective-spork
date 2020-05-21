@@ -63,3 +63,4 @@ Wednesday May 21st, 2020
 
 Thursday May 22nd, 2020
 --> 6:00am - 6:53am Code Raycasting script for weapons.
+--> 7:10am - Raycast was successful, working on rigging gun to player.
