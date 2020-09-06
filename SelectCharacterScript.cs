@@ -6,5 +6,9 @@ public class SelectCharacterScript : MonoBehaviour
 {
     GameObject[] Characters;
     int CharacterIndex;
-    
+
+    void Start()
+    {
+        
+    }
 }
