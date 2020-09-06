@@ -9,6 +9,14 @@ public class SelectCharacterScript : MonoBehaviour
 
     void Start()
     {
-        
+         InstantiateCharacter();
+
     }
+
+
+    public void InstantiateCharacter()
+    {
+        Instantiate(Characters[CharacterIndex],transform.position, transform.rotation, transform);
+    }
+
 }
