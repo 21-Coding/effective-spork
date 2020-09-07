@@ -9,7 +9,7 @@ public class SelectCharacterScript : MonoBehaviour
 
     void Start()
     {
-         InstantiateCharacter();
+        //  InstantiateCharacter();
 
     }
 
